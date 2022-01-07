@@ -1,4 +1,9 @@
-# penndot-ID-front-facing-scan-QR
+# penndot-ID-front-facing-scan-QR (previously)
+current front facing barcode
+
+realizing from a test older infrared scanner doesn't input newer QR code square serialized data
+
+better to just use back bar code since infrared scanners would have to add a ccd camera per scanner in order to input QR codes
 
 ease of use to display instead of removing from a wallet or holder
 ```
