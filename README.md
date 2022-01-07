@@ -1,4 +1,11 @@
 # penndot-ID-front-facing-scan-QR
+
+ease of use to display instead of removing from a wallet or holder
+```
+BOOZE, CIGARETTES, CASINO
+
+TRAFFIC STOP, BANK PRESENTATION, APPLY FOR WORK
+```
 the barcode from the back on the front as a QR code psdueo non scanable concept to make scanning id easier than removing from wallet
 
 ![s1](https://github.com/c4pt000/penndot-ID-front-facing-scan-QR/blob/main/drivers-id.png-QR-frontscan.png.pseduo.png?raw=true)
