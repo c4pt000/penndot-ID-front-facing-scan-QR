@@ -2,9 +2,9 @@
 
 ease of use to display instead of removing from a wallet or holder
 ```
-BOOZE, CIGARETTES, CASINO
+purchasing -> BOOZE, CIGARETTES, CASINO
 
-TRAFFIC STOP, BANK PRESENTATION, APPLY FOR WORK
+day to day basic examples -> TRAFFIC STOP, BANK PRESENTATION, APPLY FOR WORK
 ```
 the barcode from the back on the front as a QR code psdueo non scanable concept to make scanning id easier than removing from wallet
 
