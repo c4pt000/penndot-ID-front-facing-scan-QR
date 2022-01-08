@@ -3,7 +3,7 @@ current front facing barcode
 
 realizing from a test at a local store on an older infrared scanner nor does testing on a newer infrared scanner which also doesn't input newer QR code square serialized data compared to barcode serialized data
 
-better to just use back bar code insteae or a sqaure QR code since physical infrared scanner devices would have to add a ccd camera per scanner in order to input QR codes or software patching per physical infrared scanner
+better to just use back bar code insteae or a square QR code since physical infrared scanner devices would have to add a ccd camera per scanner in order to input QR codes or software patching per physical infrared scanner
 
 *EASE*of use to display instead of removing from a wallet or holder
 ```
