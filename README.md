@@ -13,3 +13,9 @@ day to day basic examples -> TRAFFIC STOP, BANK PRESENTATION, APPLY FOR WORK
 ```
 
 ![s1](https://github.com/c4pt000/penndot-ID-front-facing-scan-QR/raw/main/drivers-id.png-QR-frontscan.png.pseduo%20(1)~3.png?raw=true)
+
+
+
+
+
+https://github.com/c4pt000/CHECK-ID-slot-machine-lottery-ticket-check-drivers-id-barcode-infrared-sensor
